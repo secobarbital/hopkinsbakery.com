@@ -1,2 +1,2 @@
-RewriteEngine off 
+RewriteEngine off
 DirectoryIndex index.html
