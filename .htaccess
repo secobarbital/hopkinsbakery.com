@@ -4,4 +4,4 @@ DirectoryIndex index.html
 <FilesMatch "^\.">
   Order Deny,Allow
   Deny from all
-</Files>
+</FilesMatch>
