@@ -1,0 +1,43 @@
+---
+title:      Breads
+created_at: 2008-12-10 23:41:51.461192 -08:00
+filter:
+  - erb
+  - textile
+---
+h1. <%= h(@page.title) %>
+
+<dl>
+	<dt>Many Grain</dt>
+	<dd>&mdash; whole wheat flour, rye flour, enriched white flour, barley flour, corn flour, cracked wheat, oats, corn oil, honey, molasses, millet, sesame, salt and yeast &mdash; no eggs</dd>
+</dl>
+
+<dl>
+	<dt>Pain au Lait</dt>
+	<dd>&mdash; enriched white flour, butter, milk, sugar, eggs, salt and yeast</dd>
+</dl>
+
+<dl>
+	<dt>French</dt>
+	<dd>&mdash; enriched white flour, salt and yeast &mdash; no eggs, no oil</dd>
+</dl>
+
+<dl>
+	<dt>Challah</dt>
+	<dd>&mdash; enriched white flour, eggs, milk, honey, corn oil, salt and yeast</dd>
+</dl>
+
+<dl>
+	<dt>Corn Rye</dt>
+	<dd>&mdash; enriched white flour, rye flour, corn flour, caraway seeds, corn oil, molasses, salt and yeast</dd>
+</dl>
+
+<dl>
+	<dt>Pain de Champagne</dt>
+	<dd>&mdash; whole wheat flour, enriched white flour, rye flour, barley flour, sour rye starter, honey and salt &mdash; no eggs, no oil</dd>
+</dl>
+
+<dl>
+	<dt>Potato Onion</dt>
+	<dd>&mdash; enriched white flour, fresh potatoes, fresh onions, potato flour, poppy seeds, corn oil, honey, salt and yeast &mdash; no eggs</dd>
+</dl>

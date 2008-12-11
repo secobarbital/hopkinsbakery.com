@@ -1,0 +1,18 @@
+---
+title:       Celebrating 20 years of baking excellence in Berkeley
+created_at:  2008-08-02 14:06:40.000000 -06:00
+filter:
+  - erb
+  - textile
+---
+h1. Hopkins Street Bakery
+
+p. You could start your breakfast off here with a scone, danish or muffin, work your way to a mid-morning croissant, and end with a little pie or an array of cookies. But why stop there?
+
+p. Order one of the chocolate, citrus or yellow wedding cakes, as big or as small as you need for that big day. Actually, it&#8217;s tempting to order one for any day, matrimony or not. Just you, a fork and four layers&hellip;
+
+p. We specialize in creating memorable cakes and desserts for Weddings, Holidays, and Event celebrations.
+
+<div id="image-bar">
+	<img class="first" src="/img/pastries.jpg" width="66px" height="60px" alt="Pastries" /><img src="/img/friandise.jpg" width="66px" height="60px" alt="Friandise" /><img src="/img/cupcakes.jpg" width="60px" height="60px" alt="Cupcakes" /><img src="/img/muffin.jpg" width="60px" height="60px" alt="Muffin" /><img src="/img/wedding-cake.jpg" width="57px" height="60px" alt="Wedding Cake" /><img src="/img/raspberry-tart.jpg" width="67px" height="60px" alt="Raspberry Tart" /><img src="/img/bread-slices.jpg" width="59px" height="60px" alt="Bread Slices" /><img src="/img/sliced-bread.jpg" width="90px" height="60px" alt="Sliced Bread" /><img src="/img/flan.jpg" width="90px" height="60px" alt="Flan" />
+</div>

@@ -1,0 +1,91 @@
+---
+title:      Our Signature Cakes
+created_at: 2008-12-10 22:39:03.574772 -08:00
+filter:
+  - erb
+  - textile
+---
+h1. Our Signature Cakes <small class="fancy">&mdash; unique to our bakery for over 20 years</small>
+
+h3. Favorites
+
+<dl>
+	<dt>Fruit Basket</dt>
+	<dd>&mdash; moist yellow cake, fresh strawberries, fluffy whipped cream</dd>
+</dl>
+
+<dl>
+	<dt>Italian Crème</dt>
+	<dd>&mdash; espresso drizzled yellow cake, Marsala wine custard, finished with a ladyfinger crust and a dusting of chocolate flakes</dd>
+</dl>
+
+h3. Mousse Cakes
+
+<dl>
+	<dt>Mango Mousse</dt>
+	<dd>&mdash; moist yellow cake, layered with tropical mango mousse and topped with a mango fruit miroir</dd>
+</dl>
+
+<dl>
+	<dt>Raspberry Chocolate Mousse</dt>
+	<dd>&mdash; chocolate cake layered with intense raspberry chocolate mousse and topped with a raspberry miroir.</dd>
+</dl>
+
+h3. Flourless Cakes
+
+<dl>
+	<dt>Chocolate Mousse</dt>
+	<dd>&mdash; a flourless almond base layered with luscious chocolate mousse and topped with fluffly cream</dd>
+</dl>
+
+<dl>
+	<dt>Polonise</dt>
+	<dd>&mdash; alternating layers of almond and hazelnut meringues between French chocolate ganache with buttercream, glazed in chocolate</dd>
+</dl>
+
+<dl>
+	<dt>Chocolate Hazelnut</dt>
+	<dd>&mdash; a dense hazelnut torte layered by dense chocolate and chocolate glaze</dd>
+</dl>
+
+<dl>
+	<dt>New York Cheesecake</dt>
+	<dd>&mdash; a perfect natural cream cheese on top of a graham crusted base, topped with sweet cream</dd>
+</dl>
+
+h3. Simply Divine
+
+<dl>
+	<dt>Pineapple Coconut</dt>
+	<dd>&mdash; yellow cake with pineapple filling finished with a cloud of coconut icing</dd>
+</dl>
+
+<dl>
+	<dt>Almond Cake</dt>
+	<dd>&mdash; a moist almond flavored cake with house made almond filling torched to perfection and frosted with fluffy whipped cream with more sliced almond</dd>
+</dl>
+
+<dl>
+	<dt>Carrot Cake</dt>
+	<dd>&mdash; a moist cake with freshly shredded carrots, plump raisins, sweet pineapple and draped in silky cream cheese frosting</dd>
+</dl>
+
+<dl>
+	<dt>Chocolate Mocha</dt>
+	<dd>&mdash; moist yellow cake layered with almond and hazelnut meringues then draped in chocolate ganache</dd>
+</dl>
+
+<dl>
+	<dt>Princess Cake</dt>
+	<dd>&mdash; yellow cake with lingonberry preserves layered with pastry cream then draped in green marzipan</dd>
+</dl>
+
+<dl>
+	<dt>Chocolate Orange Cake</dt>
+	<dd>&mdash; a layer of chocolate soufflé cake topped with alternating layers of yellow cake and Grand Marnier custard cream</dd>
+</dl>
+
+<dl>
+	<dt>Red Velvet Cake</dt>
+	<dd>&mdash; this colorful, chocolate-flavored confection is a southern treat topped with cream cheese frosting</dd>
+</dl>
