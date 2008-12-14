@@ -1,6 +1,8 @@
 ---
 extension: html
-filter:    erb
+filter:
+  - erb
+  - textile
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
@@ -8,10 +10,11 @@ filter:    erb
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head profile="http://www.w3.org/2005/10/profile">
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+		<meta name="keywords" content="bakery, bakeries, wedding cakes, birthday cakes, pastries, cookies, bread, desserts, coffee, authentic, european, berkeley, richmond, oakland, san francisco, east bay, bay area, san francisco bay area, local, fresh"
+		<meta name="description" content="Hopkins Street Bakery is a local bakery in Berkeley, offering authentic European pastries, desserts, cookies and cakes, all baked in-house, specializing in custom cakes, unique cookies and rare European treats." />
 		<title>
 			Hopkins Street Bakery | <%= @page.title %>
 		</title>
-		<meta name="description" content="Bakery offering European pastries, cookies and cakes, all baked in-house. Specializes in wedding and birthday cakes, and unique baked goods." />
 		<link rel="icon" type="image/vnd.microsoft.icon" href="/favicon.ico" />
 		<link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
 		<link rel="stylesheet" href="/css/print.css" type="text/css" media="print" />
@@ -26,17 +29,18 @@ filter:    erb
 				<a href="/">
 					<img src="/img/logo.png" width="559" height="144" alt="logo" /><img src="/img/many-grain-roll.png" width="144" height="144" alt="Many Grain Dinner Rolls" /><img src="/img/cookies.png" width="133" height="144" alt="Cookies" /><img src="/img/cake.png" width="114" height="144" alt="Cake" />
 				</a>
-				Open Monday&ndash;Saturday 7am&ndash;6pm&nbsp;&nbsp;|&nbsp;&nbsp;Closed Sunday&nbsp;&nbsp;
+				Open Monday - Saturday | 7am - 6pm | Closed Sunday&nbsp;&nbsp;&nbsp;&nbsp;
 			</div>
 			
 			<div class="span-24 last" id="middle">
 				<div class="span-3 prefix-1 suffix-1 center" id="navigation">
 					<div><img src="/img/swirl.gif" alt="swirl" /></div>
 					<ul>
+						<li><a href="/holiday.html">holiday specials</a></li>
 						<li><a href="/cakes.html">specialty cakes</a></li>
-						<li><a href="/breads.html">breads &amp; buns</a></li>
+						<li><a href="/breads.html">breads & buns</a></li>
 						<li><a>pastries</a></li>
-						<li><a>cookies &amp; sweets</a></li>
+						<li><a>cookies & sweets</a></li>
 						<li><a>desserts</a></li>
 						<li class="last"><a href="/contact.html">contact us</a></li>
 					</ul>
@@ -63,11 +67,11 @@ filter:    erb
 			
 			<div class="span-22 prefix-1 suffix-1 last" id="footer">
 				<p>
-					<a href="http://www.yelp.com/biz/hopkins-street-bakery-berkeley" class="noicon">
-					  <img src="http://images.yelp.com/extimg/rrc/bFFr7HR97VjoLSv-TCAmkQ.png" width="100" height="44" alt="Hopkins Street Bakery on Yelp" />
-					</a>
 					<a href="http://www.facebook.com/pages/Berkeley-CA/Hopkins-Street-Bakery/30494399013" class="noicon">
 						<img src="/img/find_us_on_facebook_badge.gif" width="144" height="44" alt="Find us on Facebook" />
+					</a>
+					<a href="http://www.yelp.com/biz/hopkins-street-bakery-berkeley" class="noicon">
+					  <img src="http://images.yelp.com/extimg/rrc/bFFr7HR97VjoLSv-TCAmkQ.png" width="100" height="44" alt="Hopkins Street Bakery on Yelp" />
 					</a>
 				</p>
 			</div>

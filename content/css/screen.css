@@ -96,10 +96,10 @@ input[type='text'] { cursor: text; }
 
 /* COLORS */
 
-.container a:link { text-decoration: none; color: #340101; }
-.container a:visited { text-decoration: none; color: #340101; }
-.container a:hover { text-decoration: none; color: #c33; }
-.container a:active, .container a:focus { text-decoration: none; color: #000; }
+.container a:link { text-decoration: underline; color: #36c; }
+.container a:visited { text-decoration: underline; color: #99c; }
+.container a:hover { text-decoration: underline; color: #c33; }
+.container a:active, .container a:focus { text-decoration: underline; color: #000; }
 .container code, .container pre { color: #c33; } /* very optional, but still useful. W3C uses about the same colors for codes */
 
 /* 24 COLUMN GRID */
@@ -271,20 +271,20 @@ a[href$=".rdf"], a[href^="aim:"] {
 }
 
 /* External links */
-a[href^="http:"]          { background-image: url(../img/icons/external.png); padding-right: 14px; } 
-a[href^="mailto:"]        { background-image: url(../img/icons/email.png); }
-a[href^="http:"]:visited  { background-image: url(../img/icons/visited.png); }
+/*a[href^="http:"]          { background-image: url(../img/icons/external.png); padding-right: 14px; } */
+/*a[href^="mailto:"]        { background-image: url(../img/icons/email.png); }*/
+/*a[href^="http:"]:visited  { background-image: url(../img/icons/visited.png); }*/
 
 /* Files */
-a[href$=".pdf"]   { background-image: url(../img/icons/pdf.png); }  
-a[href$=".doc"]   { background-image: url(../img/icons/doc.png); }  
-a[href$=".xls"]   { background-image: url(../img/icons/xls.png); }  
+/*a[href$=".pdf"]   { background-image: url(../img/icons/pdf.png); }  */
+/*a[href$=".doc"]   { background-image: url(../img/icons/doc.png); }  */
+/*a[href$=".xls"]   { background-image: url(../img/icons/xls.png); }  */
  
 /* Misc */
-a[href$=".rss"], 
-a[href$=".rdf"]   { background-image: url(../img/icons/feed.png); }
-a[href^="aim:"]   { background-image: url(../img/icons/im.png); }
-a[href^="http://hopkinsbakery.com"] { background:none; padding:0; margin:0; }
+/*a[href$=".rss"], */
+/*a[href$=".rdf"]   { background-image: url(../img/icons/feed.png); }*/
+/*a[href^="aim:"]   { background-image: url(../img/icons/im.png); }*/
+/*a[href^="http://hopkinsbakery.com"] { background:none; padding:0; margin:0; }*/
 
 /* TEXT CLASSES */
 
