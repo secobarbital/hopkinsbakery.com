@@ -83,7 +83,7 @@ h3. Holiday Breads
 </dl>
 
 <div class="notice">
-	<strong>To ensure a smooth Christmas Eve experience:</strong>
+	<p><strong>To ensure a smooth Christmas Eve experience:</strong></p>
 	<ol>
 		<li>Place your order at (510) 526-8188 by Monday, December 22</li>
 		<li>Order must be picked up by 4pm on Wednesday, December 24</li>
