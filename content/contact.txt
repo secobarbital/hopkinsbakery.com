@@ -18,5 +18,3 @@ h3. Tell us
 h3. Follow us
 
 <a href="http://twitter.com/hopkinsbakery/" class="noicon"><img src="/img/twitter_bubble_logo.gif" /></a><br />
-
-h3. 
