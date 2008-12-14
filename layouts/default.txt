@@ -1,8 +1,6 @@
 ---
 extension: html
-filter:
-  - erb
-  - textile
+filter: erb
 ---
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
@@ -10,7 +8,7 @@ filter:
 <html xmlns="http://www.w3.org/1999/xhtml">
 	<head profile="http://www.w3.org/2005/10/profile">
 		<meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<meta name="keywords" content="bakery, bakeries, wedding cakes, birthday cakes, pastries, cookies, bread, desserts, coffee, authentic, european, berkeley, richmond, oakland, san francisco, east bay, bay area, san francisco bay area, local, fresh"
+		<meta name="keywords" content="bakery, bakeries, wedding cakes, birthday cakes, pastries, cookies, bread, desserts, coffee, authentic, european, berkeley, richmond, oakland, san francisco, east bay, bay area, san francisco bay area, local, fresh" />
 		<meta name="description" content="Hopkins Street Bakery is a local bakery in Berkeley, offering authentic European pastries, desserts, cookies and cakes, all baked in-house, specializing in custom cakes, unique cookies and rare European treats." />
 		<title>
 			Hopkins Street Bakery | <%= @page.title %>
@@ -29,7 +27,7 @@ filter:
 				<a href="/">
 					<img src="/img/logo.png" width="559" height="144" alt="logo" /><img src="/img/many-grain-roll.png" width="144" height="144" alt="Many Grain Dinner Rolls" /><img src="/img/cookies.png" width="133" height="144" alt="Cookies" /><img src="/img/cake.png" width="114" height="144" alt="Cake" />
 				</a>
-				Open Monday - Saturday | 7am - 6pm | Closed Sunday&nbsp;&nbsp;&nbsp;&nbsp;
+				Open Monday&ndash;Saturday | 7am&ndash;6pm | Closed Sunday&nbsp;&nbsp;&nbsp;&nbsp;
 			</div>
 			
 			<div class="span-24 last" id="middle">
@@ -38,9 +36,9 @@ filter:
 					<ul>
 						<li><a href="/holiday.html">holiday specials</a></li>
 						<li><a href="/cakes.html">specialty cakes</a></li>
-						<li><a href="/breads.html">breads & buns</a></li>
+						<li><a href="/breads.html">breads &amp; buns</a></li>
 						<li><a>pastries</a></li>
-						<li><a>cookies & sweets</a></li>
+						<li><a>cookies &amp; sweets</a></li>
 						<li><a>desserts</a></li>
 						<li class="last"><a href="/contact.html">contact us</a></li>
 					</ul>
