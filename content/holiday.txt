@@ -38,15 +38,15 @@ h3. Holiday Cakes
 </dl>
 
 <dl>
-	<dt>Princess Cake</dt>
-	<dd>-- Yellow genoise layered with raspberries, vanilla pastry cream and Chantilly cream and draped with marzipan</dd>
-	<dd class="price">Large (serves 8 - 10)......$35</dd>
+	<dt>Weihnachtsstollen (Christmas Bread)</dt>
+	<dd>-- Traditional recipe with flour, butter, sugar, fruit, nuts, brandy, rum and spices</dd>
+	<dd class="price">16 oz.......$11.95</dd>
 </dl>
 
 <dl>
-	<dt>Weihnacht's Stollen</dt>
-	<dd>-- Traditional recipe with flour, butter, sugar, fruit, nuts, brandy, rum and spices</dd>
-	<dd class="price">16 oz.......$11.95</dd>
+	<dt>Princess Cake</dt>
+	<dd>-- Yellow genoise layered with raspberries, vanilla pastry cream and Chantilly cream and draped with marzipan</dd>
+	<dd class="price">Large (serves 8 - 10)......$35</dd>
 </dl>
 
 <dl>
