@@ -15,7 +15,7 @@ h1. <%= h(@page.title) %>
 <dl>
 	<dt>Pain au Lait</dt>
 	<dd>&mdash; enriched white flour, butter, milk, sugar, eggs, salt and yeast</dd>
-	<dd><a href="http://www.flickr.com/photos/secobarbital/3108420353/" title="Pain au Lait round by Secobarbital, on Flickr"><img src="http://farm4.static.flickr.com/3285/3108420353_2d4d07a8ac_t.jpg" width="100" height="56" alt="Pain au Lait round" /></a></dd>
+	<dd class="image"><a href="http://www.flickr.com/photos/secobarbital/3108420353/" title="Pain au Lait round by Secobarbital, on Flickr"><img src="http://farm4.static.flickr.com/3285/3108420353_2d4d07a8ac_t.jpg" width="100" height="56" alt="Pain au Lait round" /></a></dd>
 </dl>
 
 <dl>

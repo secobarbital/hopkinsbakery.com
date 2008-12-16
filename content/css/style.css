@@ -26,6 +26,9 @@ body {
 	display: block;
 	font-style: italic;
 }
+.container dd.image {
+	display: block;
+}
 .container dl {
   padding-left: 3em;
   text-indent: -3em;
