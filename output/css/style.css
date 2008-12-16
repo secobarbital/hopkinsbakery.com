@@ -104,6 +104,9 @@ body {
   margin-left: -40px;
   margin-right: 0.125em;
 }
+#flickr-slideshow {
+  text-align: center;
+}
 
 /**************************************/
 /*               FOOTER               */
