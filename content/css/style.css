@@ -70,9 +70,8 @@ body {
   border-bottom: 2px solid #FCE6AC;
   margin-bottom: -1em;
 }
-#navigation a:link { text-decoration: none; color: #340101; }
-#navigation a:visited { text-decoration: none; color: #340101; }
-#navigation a:hover { text-decoration: none; color: #c33; }
+#navigation a:link, #navigation a:visited { text-decoration: none; color: #340101; }
+#navigation a:hover { text-decoration: underline; color: #c33; }
 #navigation a:active, #navigation a:focus { text-decoration: none; color: #000; }
 
 /**************************************/
