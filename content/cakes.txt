@@ -12,11 +12,13 @@ h3. Favorites
 <dl>
 	<dt>Fruit Basket</dt>
 	<dd>&mdash; moist yellow cake, fresh strawberries, fluffy whipped cream</dd>
+	<dd><img src="http://totoro538.smugmug.com/photos/311770227_4fdFx-Ti.jpg" width="100" height="100" alt="Fruit Basket" /></dd>
 </dl>
 
 <dl>
 	<dt>Italian Crème</dt>
 	<dd>&mdash; espresso drizzled yellow cake, Marsala wine custard, finished with a ladyfinger crust and a dusting of chocolate flakes</dd>
+	<dd><img src="http://totoro538.smugmug.com/photos/311761725_atcuP-Ti.jpg" width="100" height="100" alt="Italian Crème" /></dd>
 </dl>
 
 <dl>
@@ -29,6 +31,7 @@ h3. Mousse Cakes
 <dl>
 	<dt>Mango Mousse</dt>
 	<dd>&mdash; moist yellow cake, layered with tropical mango mousse and topped with a mango fruit miroir</dd>
+	<dd><img src="http://totoro538.smugmug.com/photos/311770305_pNdYJ-Ti.jpg" width="100" height="100" alt="Mango Mousse" /></dd>
 </dl>
 
 <dl>
@@ -41,6 +44,7 @@ h3. Flourless Cakes
 <dl>
 	<dt>Chocolate Mousse</dt>
 	<dd>&mdash; a flourless almond base layered with luscious chocolate mousse and topped with fluffly cream</dd>
+	<dd><img src="http://totoro538.smugmug.com/photos/311773691_oxzCb-Ti.jpg" width="100" height="100" alt="Chocolate Mousse" /></dd>
 </dl>
 
 <dl>
