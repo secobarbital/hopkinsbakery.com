@@ -71,8 +71,9 @@ filter: erb
 				</a>
 			</div>
 		</div>
-		<script type="text/javascript">var addthis_pub = "hopkinsbakery";</script>
-		<script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
+		<% if @page.shop -%>
+		<script  id='googlecart-script' type='text/javascript' src='https://checkout.google.com/seller/gsc/v2/cart.js?mid=247323490140293' integration='jscart-wizard' currency='USD'></script>
+		<% end -%>
 		<script type="text/javascript">
 		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -82,5 +83,7 @@ filter: erb
 		var pageTracker = _gat._getTracker("UA-4408061-1");
 		pageTracker._trackPageview();
 		} catch(err) {}</script>
+		<script type="text/javascript">var addthis_pub = "hopkinsbakery";</script>
+		<script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
 	</body>
 </html>

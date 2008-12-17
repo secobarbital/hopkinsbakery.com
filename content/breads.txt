@@ -1,6 +1,7 @@
 ---
 title:      Breads
 created_at: 2008-12-10 23:41:51.461192 -08:00
+shop: true
 filter:
   - erb
   - textile
@@ -10,35 +11,46 @@ h1. <%= h(@page.title) %>
 <dl>
 	<dt>Many Grain</dt>
 	<dd>&mdash; whole wheat flour, rye flour, enriched white flour, barley flour, corn flour, cracked wheat, oats, corn oil, honey, molasses, millet, sesame, salt and yeast &mdash; no eggs</dd>
+	<dd class="price">Available as: Dinner Rolls; Mini Loaf; Tin Loaf</dd>
+	<dd class="image"><a href="http://www.flickr.com/photos/secobarbital/3114727679/" title="Many Grain Dinner Rolls by Secobarbital, on Flickr"><img src="http://farm4.static.flickr.com/3126/3114727679_a34ed06e11_t.jpg" width="100" height="67" alt="Many Grain Dinner Rolls" /></a></dd>
+	<dd><div class="product"><input value="Many Grain" class="product-title" type="hidden"><input value="http://farm4.static.flickr.com/3126/3114727679_a34ed06e11_t.jpg" class="product-image" type="hidden"><select class="product-attr-custom"><option selected="selected" googlecart-set-product-price="9.00" value="Dinner Rolls (dozen)">Dinner Rolls (dozen) - $9.00</option></select><input value="9.00" class="product-price" type="hidden"><div title="Add to cart" role="button" tabindex="0" class="googlecart-add-button"></div></div></dd>
 </dl>
 
 <dl>
 	<dt>Pain au Lait</dt>
-	<dd>&mdash; enriched white flour, butter, milk, sugar, eggs, salt and yeast</dd>
-	<dd class="image"><a href="http://www.flickr.com/photos/secobarbital/3108420353/" title="Pain au Lait round by Secobarbital, on Flickr"><img src="http://farm4.static.flickr.com/3285/3108420353_2d4d07a8ac_t.jpg" width="100" height="56" alt="Pain au Lait round" /></a></dd>
-</dl>
-
-<dl>
-	<dt>French</dt>
-	<dd>&mdash; enriched white flour, salt and yeast &mdash; no eggs, no oil</dd>
+	<dd>&mdash; enriched white flour, butter, milk, sugar, eggs, salt and yeast.</dd>
+	<dd class="price">Available as: Dinner Rolls; Baguette; Round Loaf; Tin Loaf</dd>
+	<dd class="image"><a href="http://www.flickr.com/photos/secobarbital/3108420353/" title="Pain au Lait round by Secobarbital, on Flickr"><img src="http://farm4.static.flickr.com/3285/3108420353_2d4d07a8ac_t.jpg" width="100" height="56" alt="Pain au Lait round" /></a><a href="http://www.flickr.com/photos/secobarbital/3115548132/" title="Pain au Lait Dinner Rolls by Secobarbital, on Flickr"><img src="http://farm4.static.flickr.com/3123/3115548132_7c2cf541fa_t.jpg" width="100" height="67" alt="Pain au Lait Dinner Rolls" /></a></dd>
+	<dd><div class="product"><input value="Pain au Lait" class="product-title" type="hidden"><input value="http://farm4.static.flickr.com/3123/3115548132_7c2cf541fa_t.jpg" class="product-image" type="hidden"><select class="product-attr-custom"><option selected="selected" googlecart-set-product-price="9.00" value="Dinner Rolls (dozen)">Dinner Rolls (dozen) - $9.00</option></select><input value="9.00" class="product-price" type="hidden"><div title="Add to cart" role="button" tabindex="0" class="googlecart-add-button"></div></div></dd>
 </dl>
 
 <dl>
 	<dt>Challah</dt>
 	<dd>&mdash; enriched white flour, eggs, milk, honey, corn oil, salt and yeast</dd>
+	<dd class="price">Available as: Dinner Rolls; Small; Large</dd>
+	<dd><div class="product"><input value="Challah" class="product-title" type="hidden"><select class="product-attr-custom"><option selected="selected" googlecart-set-product-price="9.00" value="Dinner Rolls (dozen)">Dinner Rolls (dozen) - $9.00</option></select><input value="9.00" class="product-price" type="hidden"><div title="Add to cart" role="button" tabindex="0" class="googlecart-add-button"></div></div></dd>
+</dl>
+
+<dl>
+	<dt>French</dt>
+	<dd>&mdash; enriched white flour, salt and yeast &mdash; no eggs, no oil</dd>
+	<dd class="price">Available as: Baton; Baguette</dd>
 </dl>
 
 <dl>
 	<dt>Corn Rye</dt>
 	<dd>&mdash; enriched white flour, rye flour, corn flour, caraway seeds, corn oil, molasses, salt and yeast</dd>
+	<dd class="price">Not Available</dd>
 </dl>
 
 <dl>
 	<dt>Pain de Champagne</dt>
 	<dd>&mdash; whole wheat flour, enriched white flour, rye flour, barley flour, sour rye starter, honey and salt &mdash; no eggs, no oil</dd>
+	<dd class="price">Not Available</dd>
 </dl>
 
 <dl>
 	<dt>Potato Onion</dt>
 	<dd>&mdash; enriched white flour, fresh potatoes, fresh onions, potato flour, poppy seeds, corn oil, honey, salt and yeast &mdash; no eggs</dd>
+	<dd class="price">Not Available</dd>
 </dl>
