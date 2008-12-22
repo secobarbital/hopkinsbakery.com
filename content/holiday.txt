@@ -63,7 +63,7 @@ h3. Holiday Breads
 
 <dl>
 	<dt><a name="rolls">Dinner Rolls</a></dt>
-<div class="product"><input value="Dinner Rolls" class="product-title" type="hidden"><select class="product-attr-custom"><option selected="selected" googlecart-set-product-price="9.00" value="Pain au Lait (Dozen)">Pain au Lait (Dozen) - $9.00</option><option googlecart-set-product-price="9.00" value="Many Grain (Dozen)">Many Grain (Dozen) - $9.00</option><option googlecart-set-product-price="9.00" value="Challah (Dozen)">Challah (Dozen) - $9.00</option><option googlecart-set-product-price="9.00" value="French (Dozen)">French (Dozen) - $9.00</option></select><input value="9.00" class="product-price" type="hidden"><div title="Add to cart" role="button" tabindex="0" class="googlecart-add-button"></div></div>
+<div class="product"><input value="Dinner Rolls" class="product-title" type="hidden"><select class="product-attr-custom"><option selected="selected" googlecart-set-product-price="9.00" value="Pain au Lait (Dozen)">Pain au Lait (Dozen) - $9.00</option><option googlecart-set-product-price="9.00" value="Many Grain (Dozen)">Many Grain (Dozen) - $9.00</option><option googlecart-set-product-price="9.00" value="French (Dozen)">French (Dozen) - $9.00</option><option googlecart-set-product-price="9.50" value="Challah (Dozen)">Challah (Dozen) - $9.50</option></select><input value="9.50" class="product-price" type="hidden"><div title="Add to cart" role="button" tabindex="0" class="googlecart-add-button"></div></div>
 </dl>
 
 h3. Holiday Confections
