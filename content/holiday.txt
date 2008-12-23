@@ -13,7 +13,8 @@ h3. Holiday Cakes
 <dl>
 	<dt>Christmas Fruit Cake</dt>
 	<dd>-- Filled with chopped candied fruits and dried fruits, nuts and spices, flavorfully soaked in brandy <span class="highlight">Limited Quantities! Order yours today!</span></dd>
-	<dd class="googlecart"><div class="product"><input value="Christmas Fruit Cake" class="product-title" type="hidden"><select class="product-attr-custom"><option selected="selected" googlecart-set-product-price="33.00" value="Small (6&quot;)">Small (6") - $33.00</option><option googlecart-set-product-price="48.00" value="Large (8&quot;)">Large (8") - $48.00</option></select><input value="33.00" class="product-price" type="hidden"><div title="Add to cart" role="button" tabindex="0" class="googlecart-add-button"></div></div></dd>
+	<dd class="image"><a href="http://www.flickr.com/photos/secobarbital/3123834297/" title="Christmas Fruit Cake by Secobarbital, on Flickr"><img src="http://farm4.static.flickr.com/3086/3123834297_56426008dc_t.jpg" width="100" height="56" alt="Christmas Fruit Cake" /></a></dd>
+	<dd class="googlecart"><div class="product"><input value="Christmas Fruit Cake" class="product-title" type="hidden"><input value="http://farm4.static.flickr.com/3086/3123834297_56426008dc_t.jpg" class="product-image" type="hidden"><select class="product-attr-custom"><option selected="selected" googlecart-set-product-price="33.00" value="Small (6&quot;)">Small (6") - $33.00</option><option googlecart-set-product-price="48.00" value="Large (8&quot;)">Large (8") - $48.00</option></select><input value="33.00" class="product-price" type="hidden"><div title="Add to cart" role="button" tabindex="0" class="googlecart-add-button"></div></div></dd>
 </dl>
 
 <dl>
@@ -40,7 +41,8 @@ h3. Holiday Cakes
 <dl>
 	<dt>Weihnachtsstollen (German Christmas Bread)</dt>
 	<dd>-- Traditional recipe with flour, butter, sugar, fruit, nuts, brandy, rum and spices</dd>
-	<dd class="googlecart"><div class="product"><input value="Weihnachtsstollen (Christmas Bread)" class="product-title" type="hidden"><select class="product-attr-custom"><option selected="selected" googlecart-set-product-price="11.95" value="16 oz">16 oz - $11.95</option></select><input value="11.95" class="product-price" type="hidden"><div title="Add to cart" role="button" tabindex="0" class="googlecart-add-button"></div></div></dd>
+	<dd class="image"><a href="http://www.flickr.com/photos/secobarbital/3123398825/" title="Weihnachtsstollen (German Christmas Bread) by Secobarbital, on Flickr"><img src="http://farm4.static.flickr.com/3295/3123398825_fbd2bf1012_t.jpg" width="100" height="56" alt="Weihnachtsstollen (German Christmas Bread)" /></a></dd>
+	<dd class="googlecart"><div class="product"><input value="Weihnachtsstollen (Christmas Bread)" class="product-title" type="hidden"><input value="http://farm4.static.flickr.com/3295/3123398825_fbd2bf1012_t.jpg" class="product-image" type="hidden"><select class="product-attr-custom"><option selected="selected" googlecart-set-product-price="11.95" value="16 oz">16 oz - $11.95</option></select><input value="11.95" class="product-price" type="hidden"><div title="Add to cart" role="button" tabindex="0" class="googlecart-add-button"></div></div></dd>
 </dl>
 
 <dl>
@@ -63,7 +65,8 @@ h3. Holiday Breads
 
 <dl>
 	<dt><a name="rolls">Dinner Rolls</a></dt>
-<div class="product"><input value="Dinner Rolls" class="product-title" type="hidden"><select class="product-attr-custom"><option selected="selected" googlecart-set-product-price="9.00" value="Pain au Lait (Dozen)">Pain au Lait (Dozen) - $9.00</option><option googlecart-set-product-price="9.00" value="Many Grain (Dozen)">Many Grain (Dozen) - $9.00</option><option googlecart-set-product-price="9.00" value="French (Dozen)">French (Dozen) - $9.00</option><option googlecart-set-product-price="9.50" value="Challah (Dozen)">Challah (Dozen) - $9.50</option></select><input value="9.50" class="product-price" type="hidden"><div title="Add to cart" role="button" tabindex="0" class="googlecart-add-button"></div></div>
+	<dd class="image"><a href="http://www.flickr.com/photos/secobarbital/3115548132/" title="Pain au Lait Dinner Rolls by Secobarbital, on Flickr"><img src="http://farm4.static.flickr.com/3123/3115548132_7c2cf541fa_t.jpg" width="100" height="67" alt="Pain au Lait Dinner Rolls" /></a></dd>
+	<dd class="googlecart"><div class="product"><input value="Dinner Rolls" class="product-title" type="hidden"><select class="product-attr-custom"><option selected="selected" googlecart-set-product-price="9.00" value="Pain au Lait (Dozen)">Pain au Lait (Dozen) - $9.00</option><option googlecart-set-product-price="9.00" value="Many Grain (Dozen)">Many Grain (Dozen) - $9.00</option><option googlecart-set-product-price="9.00" value="French (Dozen)">French (Dozen) - $9.00</option><option googlecart-set-product-price="9.50" value="Challah (Dozen)">Challah (Dozen) - $9.50</option></select><input value="9.50" class="product-price" type="hidden"><div title="Add to cart" role="button" tabindex="0" class="googlecart-add-button"></div></div></dd>
 </dl>
 
 h3. Holiday Confections
