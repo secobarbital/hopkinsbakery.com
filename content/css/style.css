@@ -1,8 +1,8 @@
 /*======================================
-      WELCOME TO THE STYLESHEET
---------------------------------------      
-     Copyright Mike Crittenden
-      Author: Mike Crittenden
+			WELCOME TO THE STYLESHEET
+--------------------------------------			
+		 Copyright Mike Crittenden
+			Author: Mike Crittenden
 ======================================*/
  
 /**************************************\
@@ -14,12 +14,12 @@
 
 
 /**************************************/
-/*              GLOBALS               */
+/*							GLOBALS								*/
 /**************************************/
 
 body {
-  background-color: #400000;
-  color: #340101;
+	background-color: #400000;
+	color: #340101;
 }
 .container dt, .container dd { display: inline; }
 .container dt { font-size: 1.2em; }
@@ -29,103 +29,107 @@ body {
 }
 .container dd.image, .container dd.googlecart {
 	display: block;
+	text-indent: 0;
+}
+.container dd.image {
+	padding-left: 4em;
 }
 .container dl {
-  padding-left: 3em;
-  text-indent: -3em;
+	padding-left: 3em;
+	text-indent: -3em;
 }
 .container h3 {
-  color: #666; 
-  font-family: "Warnock Pro", "Goudy Old Style","Palatino","Book Antiqua", Georgia, serif; 
-  font-style: italic;
-  font-weight: normal;
+	color: #666; 
+	font-family: "Warnock Pro", "Goudy Old Style", "Palatino", "Book Antiqua", Georgia, serif; 
+	font-style: italic;
+	font-weight: normal;
 }
 .container .right { text-align: right; }
 
 /**************************************/
-/*              HEADER                */
+/*							HEADER								*/
 /**************************************/
 
 #header {
-  background-color: #01B9CD;
-  color: #000000;
-  padding-bottom: 0.5em;
-  margin-top: 2em;
+	background-color: #01B9CD;
+	color: #000000;
+	padding-bottom: 0.5em;
+	margin-top: 2em;
 }
 
 /**************************************/
-/*             NAVIGATION             */
+/*						 NAVIGATION							*/
 /**************************************/
 
 #middle {
-  background-color: #EFD491;
+	background-color: #EFD491;
 }
 #navigation {
-  padding-top: 2em;
+	padding-top: 2em;
 }
 #navigation ul, #navigation ul li {
-  margin-left: 0;
+	margin-left: 0;
 }
 #navigation ul li {
-  border-top: 2px solid #FCE6AC;
-  list-style: none;
-  padding-top: 0.5em;
-  padding-bottom: 0.5em;
+	border-top: 2px solid #FCE6AC;
+	list-style: none;
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
 }
 #navigation ul li.last {
-  border-bottom: 2px solid #FCE6AC;
-  margin-bottom: -1em;
+	border-bottom: 2px solid #FCE6AC;
+	margin-bottom: -1em;
 }
 #navigation a:link, #navigation a:visited { text-decoration: none; color: #340101; }
 #navigation a:hover { text-decoration: underline; color: #c33; }
 #navigation a:active, #navigation a:focus { text-decoration: none; color: #000; }
 
 /**************************************/
-/*            MAIN CONTENT            */
+/*						MAIN CONTENT						*/
 /**************************************/
 
 #content {
-  background-color: #FCE6AC;
+	background-color: #FCE6AC;
 }
 #content address {
-  margin-top: -5em;
-  text-align: center;
+	margin-top: -5em;
+	text-align: center;
 }
 #content h1 {
-  font-weight: normal;
-  border-bottom: 3px solid #EFD491;
-  margin-top: 2em;
-  margin-bottom: 1em;
+	font-weight: normal;
+	border-bottom: 3px solid #EFD491;
+	margin-top: 2em;
+	margin-bottom: 1em;
 }
 #image-bar {
-  margin-top: 5em;
-  margin-right: -40px;
+	margin-top: 5em;
+	margin-right: -40px;
 }
 #image-bar img {
-  margin-left: 0.25em;
-  margin-right: 0.25em;
+	margin-left: 0.25em;
+	margin-right: 0.25em;
 }
 #image-bar img.first {
-  margin-left: -40px;
-  margin-right: 0.125em;
+	margin-left: -40px;
+	margin-right: 0.125em;
 }
 #flickr-slideshow {
-  text-align: center;
+	text-align: center;
 }
 
 /**************************************/
-/*               FOOTER               */
+/*							 FOOTER								*/
 /**************************************/
 
 #copyright {
-  background-color: #153216;
-  color: #FFFFFF;
-  text-align: center;
+	background-color: #153216;
+	color: #FFFFFF;
+	text-align: center;
 }
 #footer {
-  margin-top: 1.5em;
-  text-align: center;
+	margin-top: 1.5em;
+	text-align: center;
 }
 #footer img {
-  vertical-align: top;
+	vertical-align: top;
 }
