@@ -22,6 +22,7 @@ body {
   color: #340101;
 }
 .container dt, .container dd { display: inline; }
+.container dt { font-size: 1.2em; }
 .container dd.price {
 	display: block;
 	font-style: italic;
