@@ -8,12 +8,13 @@ filter:
 ---
 h1. <%= h(@page.title) %>
 
+<div class="highlight"><p>NEW! You can now order Dinner Rolls from the <a href="/holiday.html#rolls">Holiday Specials</a> page</p></div>
+
 <dl>
 	<dt>Many Grain</dt>
 	<dd>-- whole wheat flour, rye flour, enriched white flour, barley flour, corn flour, cracked wheat, oats, corn oil, honey, molasses, millet, sesame, salt and yeast -- no eggs</dd>
 	<dd class="price">Available as: Dinner Rolls; Mini Loaf; Tin Loaf</dd>
 	<dd class="image"><a href="http://www.flickr.com/photos/secobarbital/3114727679/" title="Many Grain Dinner Rolls by Secobarbital, on Flickr"><img src="http://farm4.static.flickr.com/3126/3114727679_a34ed06e11_t.jpg" width="100" height="67" alt="Many Grain Dinner Rolls" /></a></dd>
-	<dd><span class="highlight">NEW! You can now order Many Grain Dinner Rolls from the <a href="/holiday.html#rolls">Holiday Specials</a> page</span></dd>
 </dl>
 
 <dl>
@@ -21,21 +22,18 @@ h1. <%= h(@page.title) %>
 	<dd>-- enriched white flour, butter, milk, sugar, eggs, salt and yeast.</dd>
 	<dd class="price">Available as: Dinner Rolls; Baguette; Round Loaf; Tin Loaf</dd>
 	<dd class="image"><a href="http://www.flickr.com/photos/secobarbital/3108420353/" title="Pain au Lait round by Secobarbital, on Flickr"><img src="http://farm4.static.flickr.com/3285/3108420353_2d4d07a8ac_t.jpg" width="100" height="56" alt="Pain au Lait round" /></a><a href="http://www.flickr.com/photos/secobarbital/3115548132/" title="Pain au Lait Dinner Rolls by Secobarbital, on Flickr"><img src="http://farm4.static.flickr.com/3123/3115548132_7c2cf541fa_t.jpg" width="100" height="67" alt="Pain au Lait Dinner Rolls" /></a></dd>
-	<dd><span class="highlight">NEW! You can now order Pain au Lait Dinner Rolls from the <a href="/holiday.html#rolls">Holiday Specials</a> page</span></dd>
 </dl>
 
 <dl>
 	<dt>Challah</dt>
 	<dd>-- enriched white flour, eggs, milk, honey, corn oil, salt and yeast</dd>
 	<dd class="price">Available as: Dinner Rolls; Small; Large</dd>
-	<dd><span class="highlight">NEW! You can now order Challah Dinner Rolls from the <a href="/holiday.html#rolls">Holiday Specials</a> page</span></dd>
 </dl>
 
 <dl>
 	<dt>French</dt>
 	<dd>-- enriched white flour, salt and yeast -- no eggs, no oil</dd>
 	<dd class="price">Available as: Dinner Rolls; Baton; Baguette</dd>
-	<dd><span class="highlight">NEW! You can now order French Dinner Rolls from the <a href="/holiday.html#rolls">Holiday Specials</a> page</span></dd>
 </dl>
 
 <dl>
