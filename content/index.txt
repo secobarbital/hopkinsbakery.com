@@ -13,8 +13,6 @@ Order one of the chocolate, citrus or yellow wedding cakes, as big or as small a
 
 We specialize in creating memorable cakes and desserts for Weddings, Holidays, and Event celebrations.
 
-p(notice). Don't miss our <a href="/holiday.html">Holiday Specials</a>!
-
 <div id="flickr-slideshow">
 	<object width="400" height="300">
 		<param name="flashvars" value="&amp;offsite=true&amp;lang=en-us&amp;page_show_url=%2Fgroups%2F922700%40N25%2Fpool%2Fshow%2F&amp;page_show_back_url=%2Fgroups%2F922700%40N25%2Fpool%2F&amp;group_id=922700@N25&amp;jump_to=&amp;start_index="></param>
