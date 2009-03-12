@@ -8,11 +8,9 @@ filter:
 ---
 h1. <%= h(@page.title) %>
 
-<div class="highlight"><p>NEW! You can now order Dinner Rolls from the <a href="/holiday.html#rolls">Holiday Specials</a> page</p></div>
-
 <dl>
 	<dt>Many Grain</dt>
-	<dd>-- whole wheat flour, rye flour, enriched white flour, barley flour, corn flour, cracked wheat, oats, corn oil, honey, molasses, millet, sesame, salt and yeast -- no eggs</dd>
+	<dd>-- whole wheat flour, rye flour, enriched white flour, barley flour, corn flour, cracked wheat, oats, corn oil, honey, molasses, millet, sesame, salt and yeast (no eggs)</dd>
 	<dd class="price">Available as: Dinner Rolls; Mini Loaf; Tin Loaf</dd>
 	<dd class="image"><a href="http://www.flickr.com/photos/secobarbital/3114727679/" title="Many Grain Dinner Rolls by Secobarbital, on Flickr"><img src="http://farm4.static.flickr.com/3126/3114727679_a34ed06e11_t.jpg" width="100" height="67" alt="Many Grain Dinner Rolls" /></a></dd>
 </dl>
@@ -32,7 +30,7 @@ h1. <%= h(@page.title) %>
 
 <dl>
 	<dt>French</dt>
-	<dd>-- enriched white flour, salt and yeast -- no eggs, no oil</dd>
+	<dd>-- enriched white flour, salt and yeast (no eggs, no oil)</dd>
 	<dd class="price">Available as: Dinner Rolls; Baton; Baguette</dd>
 </dl>
 
@@ -44,12 +42,12 @@ h1. <%= h(@page.title) %>
 
 <dl>
 	<dt>Pain de Champagne</dt>
-	<dd>-- whole wheat flour, enriched white flour, rye flour, barley flour, sour rye starter, honey and salt -- no eggs, no oil</dd>
+	<dd>-- whole wheat flour, enriched white flour, rye flour, barley flour, sour rye starter, honey and salt (no eggs, no oil)</dd>
 	<dd class="price">Not Available</dd>
 </dl>
 
 <dl>
 	<dt>Potato Onion</dt>
-	<dd>-- enriched white flour, fresh potatoes, fresh onions, potato flour, poppy seeds, corn oil, honey, salt and yeast -- no eggs</dd>
+	<dd>-- enriched white flour, fresh potatoes, fresh onions, potato flour, poppy seeds, corn oil, honey, salt and yeast (no eggs)</dd>
 	<dd class="price">Not Available</dd>
 </dl>
