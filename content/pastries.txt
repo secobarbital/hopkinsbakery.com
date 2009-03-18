@@ -1,0 +1,80 @@
+---
+title:      Pastries
+created_at: 2009-03-17 18:01:53.850876 -07:00
+filter:
+  - erb
+  - textile
+---
+h1. <%= h(@page.title) %>
+
+Our pastries are made fresh daily from the finest ingredients. We use only 100% butter!! Our dairy products are supplied by <a href="http://cloverstornetta.com/">Clover Stornetta Farm</a> from cows that are <strong>NOT</strong> treated with the growth hormone rBST.
+
+<dl>
+	<dt>Butter Croissant</dt>
+	<dd>-- Baked fresh each day, buttery and flaky. Try one today and count the layers yourself!!</dd>
+</dl>
+
+<dl>
+	<dt>Almond or Almond Cognac Croissant</dt>
+	<dd>-- Our signature croissant is layered with a light almond paste. For the exquisite cognac version, it is then drizzled with real French cognac and baked again to perfection. The caramelization from the 2nd bake adds extra crisp to this delectable pastry.</dd>
+</dl>
+
+<dl>
+	<dt>Pain au Chocolat</dt>
+	<dd>-- Croissant dough rolled out with bakers chocolate batons. Asked to be warmed and experience the melted rich chocolate in every bite. </dd>
+</dl>
+
+<dl>
+	<dt>Breakfast Buns</dt>
+	<dd>-- Hopkins Street's signature pastry. Our buttery and flaky croissant dough spread with cinnamon and sugar and baked in muffin pans. Sweet and delicious! Plain or Cranberry. Our cranberry version is a Hopkins Street favorite.</dd>
+</dl>
+
+<dl>
+	<dt>Muffins</dt>
+	<dd>-- Variety of muffins available daily including the most popular Pumpkin or Pumpkin with Chocolate Chips! For a healthy start, try our blueberry corn muffin or our pear/ginger muffin!!</dd>
+</dl>
+
+<dl>
+	<dt>Scones</dt>
+	<dd>-- Newly introduced recently with a lighter, fluffier recipe. Try the blueberry or cranberry walnut or mixed fruit flavor!</dd>
+</dl>
+
+<dl>
+	<dt>Breakfast Brioche</dt>
+	<dd>-- Our version of the classic breakfast milk-bread, with homemade pastry cream & golden raisins.</dd>
+</dl>
+
+<dl>
+	<dt>Cinnamon Walnut Danish</dt>
+	<dd>-- Made with cardamom, lemon & orange zests, cinnamon, walnuts, & brown sugar.</dd>
+</dl>
+
+<dl>
+	<dt>Cream Cheese Danish</dt>
+	<dd>-- Rich and satisfying, our classic danish pastries are filled with sweet cream cheese and optionally topped with fresh blueberries or seasonal fruits.</dd>
+</dl>
+
+<dl>
+	<dt>Fruit Danish</dt>
+	<dd>-- A newcomer introduced recently and have been gaining popularity ever since. This danish is filled with loads of dried fruits (cranberries, cherries, raisins) and a layer of our homemade almond paste.</dd>
+</dl>
+
+<dl>
+	<dt>Whole Wheat Raisin Bun</dt>
+	<dd>-- Golden raisins, walnuts & cinnamon sugar grace our satisfying breakfast bun of whole grains (corn, barley, cracked wheat, millet, sesame, & oats), honey & molasses. A healthy, hearty choice for breakfast. (Gluten Free)</dd>
+</dl>
+
+<dl>
+	<dt>Cinnamon Twist</dt>
+	<dd>-- A doughy twist of our croissant-pastry, garnished with cinnamon sugar that is a popular pastry for after school treats.</dd>
+</dl>
+
+<dl>
+	<dt>BOBO</dt>
+	<dd>-- Reminiscent of shortbread, this sweet pastry is covered with raspberry jam, raisins and walnuts. A childhood favorite for many of our customers.</dd>
+</dl>
+
+<dl>
+	<dt>Friandise</dt>
+	<dd>-- Almond tea pastry made from freshly grounded whole almonds, eggs, flour and sugar. A true afternoon delight with a cup of hot tea.</dd>
+</dl>
