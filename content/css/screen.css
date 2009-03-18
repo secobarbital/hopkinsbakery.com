@@ -256,35 +256,6 @@ hr.space {background:#fff;color:#fff;}
   padding:0 2px;
 }
 
-/* Use this class if a link gets an icon when it shouldn't. */
-body a.noicon { background:none; padding:0; margin:0; }
-
-/* Make sure the icons are not cut */
-a[href^="http:"], a[href^="mailto:"], a[href^="http:"]:visited, 
-a[href$=".pdf"], a[href$=".doc"], a[href$=".xls"], a[href$=".rss"], 
-a[href$=".rdf"], a[href^="aim:"] {
-  padding:2px 22px 2px 0;
-  margin:-2px 0;
-  background-repeat: no-repeat;
-  background-position: right center;
-}
-
-/* External links */
-/*a[href^="http:"]          { background-image: url(../img/icons/external.png); padding-right: 14px; } */
-/*a[href^="mailto:"]        { background-image: url(../img/icons/email.png); }*/
-/*a[href^="http:"]:visited  { background-image: url(../img/icons/visited.png); }*/
-
-/* Files */
-/*a[href$=".pdf"]   { background-image: url(../img/icons/pdf.png); }  */
-/*a[href$=".doc"]   { background-image: url(../img/icons/doc.png); }  */
-/*a[href$=".xls"]   { background-image: url(../img/icons/xls.png); }  */
- 
-/* Misc */
-/*a[href$=".rss"], */
-/*a[href$=".rdf"]   { background-image: url(../img/icons/feed.png); }*/
-/*a[href^="aim:"]   { background-image: url(../img/icons/im.png); }*/
-/*a[href^="http://hopkinsbakery.com"] { background:none; padding:0; margin:0; }*/
-
 /* TEXT CLASSES */
 
 .container .small {font-size:.8em;margin-bottom:1.875em;line-height:1.875em;}
