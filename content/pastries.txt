@@ -69,12 +69,3 @@ Our pastries are made fresh daily from the finest ingredients. We use only 100% 
 	<dd>-- A doughy twist of our croissant-pastry, garnished with cinnamon sugar that is a popular pastry for after school treats.</dd>
 </dl>
 
-<dl>
-	<dt>BOBO</dt>
-	<dd>-- Reminiscent of shortbread, this sweet pastry is covered with raspberry jam, raisins and walnuts. A childhood favorite for many of our customers.</dd>
-</dl>
-
-<dl>
-	<dt>Friandise</dt>
-	<dd>-- Almond tea pastry made from freshly grounded whole almonds, eggs, flour and sugar. A true afternoon delight with a cup of hot tea.</dd>
-</dl>
