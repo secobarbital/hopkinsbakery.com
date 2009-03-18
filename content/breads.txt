@@ -19,13 +19,13 @@ h1. <%= h(@page.title) %>
 	<dt>Pain au Lait</dt>
 	<dd>-- enriched white flour, butter, milk, sugar, eggs, salt and yeast.</dd>
 	<dd class="price">Available as: Dinner Rolls; Baguette; Round Loaf; Tin Loaf</dd>
-	<dd class="image"><a href="http://www.flickr.com/photos/secobarbital/3108420353/" title="Pain au Lait round by Secobarbital, on Flickr"><img src="http://farm4.static.flickr.com/3285/3108420353_2d4d07a8ac_t.jpg" width="100" height="56" alt="Pain au Lait round" /></a><a href="http://www.flickr.com/photos/secobarbital/3115548132/" title="Pain au Lait Dinner Rolls by Secobarbital, on Flickr"><img src="http://farm4.static.flickr.com/3123/3115548132_7c2cf541fa_t.jpg" width="100" height="67" alt="Pain au Lait Dinner Rolls" /></a></dd>
 </dl>
-
+	<dd class="image"><a href="http://www.flickr.com/photos/secobarbital/3108420353/" title="Pain au Lait round by Secobarbital, on Flickr"><img src="http://farm4.static.flickr.com/3285/3108420353_2d4d07a8ac_t.jpg" width="100" height="56" alt="Pain au Lait round" /></a><a href="http://www.flickr.com/photos/secobarbital/3115548132/" title="Pain au Lait Dinner Rolls by Secobarbital, on Flickr"><img src="http://farm4.static.flickr.com/3123/3115548132_7c2cf541fa_t.jpg" width="100" height="67" alt="Pain au Lait Dinner Rolls" /></a></dd>
 <dl>
 	<dt>Challah</dt>
 	<dd>-- enriched white flour, eggs, milk, honey, corn oil, salt and yeast</dd>
 	<dd class="price">Available as: Dinner Rolls; Small; Large</dd>
+	<dd class="image"><a href="http://www.flickr.com/photos/secobarbital/3363189959/" title="Round Challah for Rosh Hashanah by Secobarbital, on Flickr"><img src="http://farm4.static.flickr.com/3605/3363189959_b952187d8b_t.jpg" width="100" height="66" alt="Round Challah for Rosh Hashanah" /></a><a href="http://www.flickr.com/photos/secobarbital/3363187685/" title="Holiday Challah for Weddings, Special Events by Secobarbital, on Flickr"><img src="http://farm4.static.flickr.com/3581/3363187685_e79381bac6_t.jpg" width="67" height="100" alt="Holiday Challah for Weddings, Special Events" /></a></dd>
 </dl>
 
 <dl>
@@ -41,13 +41,14 @@ h1. <%= h(@page.title) %>
 </dl>
 
 <dl>
+	<dt>Potato Onion</dt>
+	<dd>-- enriched white flour, fresh potatoes, fresh onions, potato flour, poppy seeds, corn oil, honey, salt and yeast (no eggs)</dd>
+	<dd class="price">Not Available</dd>
+</dl>
+
+<dl>
 	<dt>Pain de Champagne</dt>
 	<dd>-- whole wheat flour, enriched white flour, rye flour, barley flour, sour rye starter, honey and salt (no eggs, no oil)</dd>
 	<dd class="price">Not Available</dd>
 </dl>
 
-<dl>
-	<dt>Potato Onion</dt>
-	<dd>-- enriched white flour, fresh potatoes, fresh onions, potato flour, poppy seeds, corn oil, honey, salt and yeast (no eggs)</dd>
-	<dd class="price">Not Available</dd>
-</dl>
