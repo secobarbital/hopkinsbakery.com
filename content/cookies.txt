@@ -1,0 +1,73 @@
+---
+title:      Cookies & Sweets
+created_at: 2009-03-18 15:19:44.061545 -07:00
+filter:
+  - erb
+  - textile
+---
+h1. <%= h(@page.title) %>
+
+<dl>
+	<dt>Bagatelle</dt>
+	<dd>-- Hopkins Street's Number One Best Seller!!  Chocolate chips and walnuts in a chewy, "fudgy", chocolate cookie dough. It’s a chocolate lover’s dream.</dd>
+</dl>
+
+<dl>
+	<dt>Freak Out</dt>
+	<dd>-- Another customer favorite loaded with "goodies"!!  Chocolate chip, with walnuts, whole almonds, plump raisins, & a hint of vanilla.</dd>
+</dl>
+
+<dl>
+	<dt>Tollhouse Chocolate Chips</dt>
+	<dd>-- The soft, chewy cookie-classic, baked hot & fresh each day.</dd>
+</dl>
+
+<dl>
+	<dt>ANZAC (Australian New Zealand Army Corps)</dt>
+	<dd>-- An old time favorite started in World War I named for the brave soldiers in their honor. The origin of the cookie comes from the fact that the simple ingredients (honey, rolled oats, flour, coconut, butter) do not spoil easily so the cookies kept well during naval transportation to loved ones who were fighting abroad. A very healthy and yet yummy cookie to try!</dd>
+</dl>
+
+<dl>
+	<dt>Sugar Cookies</dt>
+	<dd>-- Seasonally decorated cookies (butterflies, Christmas trees, Easter bunnies, pumpkins, angels, etc) that is buttery in flavor. Another favorite with kids and adults alike.</dd>
+</dl>
+
+<dl>
+	<dt>Chocolate Peppermint</dt>
+	<dd>-- Kids love this one!  Green peppermint chips in a chocolate cookie dough.</dd>
+</dl>
+
+<dl>
+	<dt>Peanut Butter</dt>
+	<dd>-- Simple yet delicious with peanut bits.</dd>
+</dl>
+
+<dl>
+	<dt>Oatmeal Cranberry, Oatmeal Raisin</dt>
+	<dd>-- This is a delightfully “cakey” cookie, made with brown sugar, milk, rolled oats, & cranberries or raisins.</dd>
+</dl>
+
+<dl>
+	<dt>Oatmeal Oat Bran</dt>
+	<dd>-- Traditional oatmeal cookie, with oat bran, dates, & walnuts. Grainy & delicious.</dd>
+</dl>
+
+<dl>
+	<dt>Ginger Snap</dt>
+	<dd>-- Made with molasses, ginger, allspice, & cinnamon. Snappy!!</dd>
+</dl>
+
+<dl>
+	<dt>Coffee Almond Butter</dt>
+	<dd>-- Dense & buttery, one of our staff calls these cookies “a taste symphony!” A very popular adult snack.</dd>
+</dl>
+
+<dl>
+	<dt>Mexican Wedding Cookie</dt>
+	<dd>-- Traditionally served at Mexican weddings, the little cookies are made from freshly grounded whole almond and rolled in powder sugar.</dd>
+</dl>
+
+<dl>
+	<dt>Hamantaschen</dt>
+	<dd>-- Delicious short bread pastry made during Purim (Jewish holiday near Easter) that is folded in a three-cornered shape with apricot or prune with almond fillings.</dd>
+</dl>

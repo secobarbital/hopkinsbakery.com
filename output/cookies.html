@@ -1,7 +1,3 @@
----
-extension: html
-filter: erb
----
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
 	"http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
@@ -11,7 +7,7 @@ filter: erb
 		<meta name="keywords" content="bakery, bakeries, wedding cakes, birthday cakes, pastries, cookies, bread, desserts, coffee, authentic, european, berkeley, richmond, oakland, san francisco, east bay, bay area, san francisco bay area, local, fresh" />
 		<meta name="description" content="Hopkins Street Bakery is a local bakery in Berkeley, offering authentic European pastries, desserts, cookies and cakes, all baked in-house, specializing in custom cakes, unique cookies and rare European treats." />
 		<title>
-			Hopkins Street Bakery | <%= @page.title %>
+			Hopkins Street Bakery | Cookies & Sweets
 		</title>
 		<link rel="icon" type="image/vnd.microsoft.icon" href="/favicon.ico" />
 		<link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
@@ -44,7 +40,73 @@ filter: erb
 					<div><img src="/img/swirl.gif" alt="swirl" /></div>
 				</div>
 				<div class="span-15 prefix-2 suffix-2 last" id="content">
-					<%= @content %>
+					<h1>Cookies &amp; Sweets</h1>
+
+
+<dl>
+    <dt>Bagatelle</dt>
+    <dd>&#8212;Hopkins Street&#8217;s Number One Best Seller!!  Chocolate chips and walnuts in a chewy, &#8220;fudgy&#8221;, chocolate cookie dough. It’s a chocolate lover’s dream.</dd>
+</dl>
+
+<dl>
+    <dt>Freak Out</dt>
+    <dd>&#8212;Another customer favorite loaded with &#8220;goodies&#8221;!!  Chocolate chip, with walnuts, whole almonds, plump raisins, &#38; a hint of vanilla.</dd>
+</dl>
+
+<dl>
+    <dt>Tollhouse Chocolate Chips</dt>
+    <dd>&#8212;The soft, chewy cookie-classic, baked hot &#38; fresh each day.</dd>
+</dl>
+
+<dl>
+    <dt>ANZAC (Australian New Zealand Army Corps)</dt>
+    <dd>&#8212;An old time favorite started in World War I named for the brave soldiers in their honor. The origin of the cookie comes from the fact that the simple ingredients (honey, rolled oats, flour, coconut, butter) do not spoil easily so the cookies kept well during naval transportation to loved ones who were fighting abroad. A very healthy and yet yummy cookie to try!</dd>
+</dl>
+
+<dl>
+    <dt>Sugar Cookies</dt>
+    <dd>&#8212;Seasonally decorated cookies (butterflies, Christmas trees, Easter bunnies, pumpkins, angels, etc) that is buttery in flavor. Another favorite with kids and adults alike.</dd>
+</dl>
+
+<dl>
+    <dt>Chocolate Peppermint</dt>
+    <dd>&#8212;Kids love this one!  Green peppermint chips in a chocolate cookie dough.</dd>
+</dl>
+
+<dl>
+    <dt>Peanut Butter</dt>
+    <dd>&#8212;Simple yet delicious with peanut bits.</dd>
+</dl>
+
+<dl>
+    <dt>Oatmeal Cranberry, Oatmeal Raisin</dt>
+    <dd>&#8212;This is a delightfully “cakey” cookie, made with brown sugar, milk, rolled oats, &#38; cranberries or raisins.</dd>
+</dl>
+
+<dl>
+    <dt>Oatmeal Oat Bran</dt>
+    <dd>&#8212;Traditional oatmeal cookie, with oat bran, dates, &#38; walnuts. Grainy &#38; delicious.</dd>
+</dl>
+
+<dl>
+    <dt>Ginger Snap</dt>
+    <dd>&#8212;Made with molasses, ginger, allspice, &#38; cinnamon. Snappy!!</dd>
+</dl>
+
+<dl>
+    <dt>Coffee Almond Butter</dt>
+    <dd>&#8212;Dense &#38; buttery, one of our staff calls these cookies “a taste symphony!” A very popular adult snack.</dd>
+</dl>
+
+<dl>
+    <dt>Mexican Wedding Cookie</dt>
+    <dd>&#8212;Traditionally served at Mexican weddings, the little cookies are made from freshly grounded whole almond and rolled in powder sugar.</dd>
+</dl>
+
+<dl>
+    <dt>Hamantaschen</dt>
+    <dd>&#8212;Delicious short bread pastry made during Purim (Jewish holiday near Easter) that is folded in a three-cornered shape with apricot or prune with almond fillings.</dd>
+</dl>
 					<address class="pull-6">
 						<a href="/contact.html">
 							1584 Hopkins St<br />
@@ -70,10 +132,7 @@ filter: erb
 				</a>
 			</div>
 		</div>
-		<% if @page.shop -%>
-		<script id="googlecart-script" type="text/javascript" src="https://checkout.google.com/seller/gsc/v2/cart.js?mid=247323490140293" integration="jscart-wizard" aid="UA-4408061-1" currency="USD"></script>
-		<% else -%>
-		<script type="text/javascript">
+				<script type="text/javascript">
 		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 		</script>
@@ -82,8 +141,7 @@ filter: erb
 		var pageTracker = _gat._getTracker("UA-4408061-1");
 		pageTracker._trackPageview();
 		} catch(err) {}</script>
-		<% end -%>
-		<script type="text/javascript">var addthis_pub = "hopkinsbakery";</script>
+				<script type="text/javascript">var addthis_pub = "hopkinsbakery";</script>
 		<script type="text/javascript" src="http://s7.addthis.com/js/152/addthis_widget.js"></script>
 	</body>
 </html>
