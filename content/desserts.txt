@@ -1,0 +1,58 @@
+---
+title:      Desserts
+created_at: 2009-03-18 16:07:42.863567 -07:00
+filter:
+  - erb
+  - textile
+---
+h1. <%= h(@page.title) %>
+
+<dl>
+	<dt>Eclair</dt>
+	<dd>-- Declared the “Best in Town” by many of our customers. Filled with light custard cream, topped with dark chocolate. A definite must try!</dd>
+</dl>
+
+<dl>
+	<dt>Cupcakes</dt>
+	<dd>-- Light and fluffy chocolate cake topped with our rich "fudgy" chocolate ganache in the chocolate version. On weekends, we also offer other seasonal flavors like strawberries, vanilla, red velvet, etc.</dd>
+</dl>
+
+<dl>
+	<dt>Brownie</dt>
+	<dd>-- Our very "fudgy" recipe with a blend of dark and milk chocolate, coffee and big chunks of walnuts.</dd>
+</dl>
+
+<dl>
+	<dt>Seasonal Fruit Tart</dt>
+	<dd>-- Homemade buttery tart shell filled with homemade pastry cream topped with seasonal fruits. A healthy and light dessert.</dd>
+</dl>
+
+<dl>
+	<dt>Lemon Tart</dt>
+	<dd>-- Homemade buttery tart shell filled with homemade lemon curd made from fresh squeezed lemon juice.</dd>
+</dl>
+
+<dl>
+	<dt>Almond Tart</dt>
+	<dd>-- Our buttery tart shell filled with homemade freshly grounded almond paste baked with fresh fruits.</dd>
+</dl>
+
+<dl>
+	<dt>French Pear Tart</dt>
+	<dd>-- Homemade buttery tart shell filled with homemade pastry cream topped with beautifully arranged pear that is soaked in French red wine and cranberry juice.</dd>
+</dl>
+
+<dl>
+	<dt>Creme Caramel/Flan/Custard</dt>
+	<dd>-- Our classic custard made from eggs with sweet caramel that is very silky in taste.</dd>
+</dl>
+
+<dl>
+	<dt>Bomboloni (Saturday Special)</dt>
+	<dd>-- The most popular dessert item on Saturday!!  A sweet brioche dough that is deep fried and filled with our famous pastry custard cream and lightly coated with powdered sugar. A real treat for the weekend!</dd>
+</dl>
+
+<dl>
+	<dt>Cannoli (special order)</dt>
+	<dd>-- A classic cannoli of ricotta cheese, flavored with orange juice and garnished with candied fruit.</dd>
+</dl>
