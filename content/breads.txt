@@ -12,7 +12,10 @@ h1. <%= h(@page.title) %>
 	<dt>Many Grain</dt>
 	<dd>-- whole wheat flour, rye flour, enriched white flour, barley flour, corn flour, cracked wheat, oats, corn oil, honey, molasses, millet, sesame, salt and yeast (no eggs)</dd>
 	<dd class="price">Available as: Dinner Rolls; Mini Loaf; Tin Loaf</dd>
-	<dd class="image"><a href="http://www.flickr.com/photos/secobarbital/3114727679/" title="Many Grain Dinner Rolls by Secobarbital, on Flickr"><img src="http://farm4.static.flickr.com/3126/3114727679_a34ed06e11_t.jpg" width="100" height="67" alt="Many Grain Dinner Rolls" /></a></dd>
+	<dd class="image">
+		<a href="http://www.flickr.com/photos/secobarbital/3114727679/" title="Many Grain Dinner Rolls by Secobarbital, on Flickr"><img src="http://farm4.static.flickr.com/3126/3114727679_a34ed06e11_t.jpg" width="100" height="67" alt="Many Grain Dinner Rolls" /></a>
+		<a href="http://www.flickr.com/photos/secobarbital/3446122904/" title="Many Grain Loaf by Secobarbital, on Flickr"><img src="http://farm4.static.flickr.com/3639/3446122904_c813c57bde_t.jpg" width="100" height="62" alt="Many Grain Loaf" /></a>
+		</dd>
 </dl>
 
 <dl>
@@ -20,18 +23,35 @@ h1. <%= h(@page.title) %>
 	<dd>-- enriched white flour, butter, milk, sugar, eggs, salt and yeast.</dd>
 	<dd class="price">Available as: Dinner Rolls; Baguette; Round Loaf; Tin Loaf</dd>
 </dl>
-	<dd class="image"><a href="http://www.flickr.com/photos/secobarbital/3108420353/" title="Pain au Lait round by Secobarbital, on Flickr"><img src="http://farm4.static.flickr.com/3285/3108420353_2d4d07a8ac_t.jpg" width="100" height="56" alt="Pain au Lait round" /></a><a href="http://www.flickr.com/photos/secobarbital/3115548132/" title="Pain au Lait Dinner Rolls by Secobarbital, on Flickr"><img src="http://farm4.static.flickr.com/3123/3115548132_7c2cf541fa_t.jpg" width="100" height="67" alt="Pain au Lait Dinner Rolls" /></a></dd>
+	<dd class="image"><a href="http://www.flickr.com/photos/secobarbital/3108420353/" title="Pain au Lait round by Secobarbital, on Flickr"><img src="http://farm4.static.flickr.com/3285/3108420353_2d4d07a8ac_t.jpg" width="100" height="56" alt="Pain au Lait round" /></a><a href="http://www.flickr.com/photos/secobarbital/3115548132/" title="Pain au Lait Dinner Rolls by Secobarbital, on Flickr"><img src="http://farm4.static.flickr.com/3123/3115548132_7c2cf541fa_t.jpg" width="100" height="67" alt="Pain au Lait Dinner Rolls" /></a>
+		<a href="http://www.flickr.com/photos/secobarbital/3446122628/" title="Pain Au Lait Loaf by Secobarbital, on Flickr"><img src="http://farm4.static.flickr.com/3323/3446122628_957b80dc26_t.jpg" width="100" height="62" alt="Pain Au Lait Loaf" /></a>
+		<a href="http://www.flickr.com/photos/secobarbital/3446122394/" title="French Baguette by Secobarbital, on Flickr"><img src="http://farm4.static.flickr.com/3561/3446122394_579424ae54_t.jpg" width="100" height="56" alt="French Baguette" /></a></dd>
 <dl>
 	<dt>Challah</dt>
 	<dd>-- enriched white flour, eggs, milk, honey, corn oil, salt and yeast</dd>
 	<dd class="price">Available as: Dinner Rolls; Small; Large</dd>
-	<dd class="image"><a href="http://www.flickr.com/photos/secobarbital/3363189959/" title="Round Challah for Rosh Hashanah by Secobarbital, on Flickr"><img src="http://farm4.static.flickr.com/3605/3363189959_b952187d8b_t.jpg" width="100" height="66" alt="Round Challah for Rosh Hashanah" /></a><a href="http://www.flickr.com/photos/secobarbital/3363187685/" title="Holiday Challah for Weddings, Special Events by Secobarbital, on Flickr"><img src="http://farm4.static.flickr.com/3581/3363187685_e79381bac6_t.jpg" width="67" height="100" alt="Holiday Challah for Weddings, Special Events" /></a></dd>
+	<dd class="image"><a href="http://www.flickr.com/photos/secobarbital/3363189959/" title="Round Challah for Rosh Hashanah by Secobarbital, on Flickr"><img src="http://farm4.static.flickr.com/3605/3363189959_b952187d8b_t.jpg" width="100" height="66" alt="Round Challah for Rosh Hashanah" /></a>
+		<a href="http://www.flickr.com/photos/secobarbital/3363187685/" title="Holiday Challah for Weddings, Special Events by Secobarbital, on Flickr"><img src="http://farm4.static.flickr.com/3581/3363187685_e79381bac6_t.jpg" width="67" height="100" alt="Holiday Challah for Weddings, Special Events" /></a>
+		<a href="http://www.flickr.com/photos/secobarbital/3446123384/" title="Challah by Secobarbital, on Flickr"><img src="http://farm4.static.flickr.com/3625/3446123384_0851315c53_t.jpg" width="100" height="56" alt="Challah" /></a>
+		</dd>
 </dl>
 
 <dl>
 	<dt>French</dt>
 	<dd>-- enriched white flour, salt and yeast (no eggs, no oil)</dd>
-	<dd class="price">Available as: Dinner Rolls; Baton; Baguette</dd>
+	<dd class="price">Available as: Baguette, 1/2 size Baton</dd>
+	<dd class="image">
+		<a href="http://www.flickr.com/photos/secobarbital/3123408365/" title="French Baton and Baguette by Secobarbital, on Flickr"><img src="http://farm4.static.flickr.com/3210/3123408365_d978efd028_t.jpg" width="100" height="56" alt="French Baton and Baguette" /></a>
+	</dd>
+</dl>
+
+<dl>
+	<dt>Brioche</dt>
+	<dd>-- enriched white flour, butter, milk, sugar, eggs, salt and yeast</dd>
+	<dd class="price">Available as: Tin Loaf</dd>
+	<dd class="image">
+		<a href="http://www.flickr.com/photos/secobarbital/3123406329/" title="Brioche by Secobarbital, on Flickr"><img src="http://farm4.static.flickr.com/3128/3123406329_d0edd67581_t.jpg" width="100" height="56" alt="Brioche" /></a>
+	</dd>
 </dl>
 
 <dl>
