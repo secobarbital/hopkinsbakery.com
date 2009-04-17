@@ -25,6 +25,11 @@ Our pastries are made fresh daily from the finest ingredients. We use only 100% 
 </dl>
 
 <dl>
+	<dt>Ham and Cheese Croissant</dt>
+	<dd>-- Savory croissant filled with <a href="http://www.nimanranch.com">Niman Ranch</a> ham and New York sharp cheddar.</dd>
+</dl>
+
+<dl>
 	<dt>Breakfast Buns</dt>
 	<dd>-- Hopkins Street's signature pastry. Our buttery and flaky croissant dough spread with cinnamon and sugar and baked in muffin pans. Sweet and delicious! Plain or Cranberry. Our cranberry version is a Hopkins Street favorite.</dd>
 </dl>

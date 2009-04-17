@@ -35,6 +35,7 @@ filter: erb
 					<div><img src="/img/swirl.gif" alt="swirl" /></div>
 					<ul>
 						<li><a href="/cakes.html">specialty cakes</a></li>
+						<li><a href="/wedding.html">wedding cakes</a></li>
 						<li><a href="/breads.html">breads &amp; buns</a></li>
 						<li><a href="/pastries.html">pastries</a></li>
 						<li><a href="/cookies.html">cookies &amp; sweets</a></li>
