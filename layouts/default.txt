@@ -24,10 +24,13 @@ filter: erb
 	<body>
 		<div class="container">
 			<div class="span-24 last fancy right" id="header">
+				<div>
 				<a href="/">
-					<img src="/img/logo.png" width="559" height="144" alt="logo" /><img src="/img/many-grain-roll.png" width="144" height="144" alt="Many Grain Dinner Rolls" /><img src="/img/cookies.png" width="133" height="144" alt="Cookies" /><img src="/img/cake.png" width="114" height="144" alt="Cake" />
+					<img src="/img/header.jpg" width="950" height="144" alt="Header" />
 				</a>
-				Open Monday&ndash;Saturday | 7am&ndash;6pm | Closed Sunday&nbsp;&nbsp;&nbsp;&nbsp;
+				</div>
+				<span style="float:left">&nbsp;&nbsp;&nbsp;&nbsp;<strong>Hopkins Street Bakery</strong>&nbsp;&nbsp;</span>
+				1584 Hopkins St, Berkeley, CA 94605 &nbsp;&nbsp;|&nbsp;&nbsp;(510) 526-8188&nbsp;&nbsp;|&nbsp;&nbsp;Open Monday&ndash;Saturday | 7am&ndash;6pm | Closed Sunday&nbsp;&nbsp;&nbsp;&nbsp;
 			</div>
 			
 			<div class="span-24 last" id="middle">
