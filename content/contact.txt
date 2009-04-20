@@ -13,8 +13,8 @@ h3. Find us
 
 h3. Tell us
 
-<a href="http://getsatisfaction.com/hopkinsbakery/" class="noicon"><img src="/img/badge_get_help.png" alt="Get Satisfaction" /></a><br />
+<a href="http://hopkinsbakery.uservoice.com"><img src="/img/uservoice_logo_300px.png" alt="UserVoice" /></a><br />
 
 h3. Follow us
 
-<a href="http://twitter.com/hopkinsbakery/" class="noicon"><img src="/img/twitter_bubble_logo.gif" /></a><br />
+<a href="http://twitter.com/hopkinsbakery/"><img src="/img/twitter_bubble_logo.gif" /></a><br />
