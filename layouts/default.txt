@@ -17,7 +17,7 @@ filter: erb
 <body>
 	<div class="yui-d2">
 		<div id="header">
-			<a href="/"><img src="/img/header.jpg" alt="Pastry Shelf"></a>
+			<a href="/"><img src="/img/header.png" alt="Pastry Shelf"></a>
 			<div class="headline-left">Hopkins Street Bakery</div>
 			<div class="headline-right"><address>1584 Hopkins St, Berkeley, CA 94707</address>&nbsp;&nbsp;|&nbsp;&nbsp;(510) 526-8188&nbsp;&nbsp;|&nbsp;&nbsp;Open Mon&ndash;Sat | 7am&ndash;6pm</div>
 		</div>
