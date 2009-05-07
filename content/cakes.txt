@@ -9,7 +9,7 @@ filter:
 h1. Our Signature Cakes <small class="fancy">-- unique to our bakery for over 20 years</small>
 
 <div class="notice">
-	<p>Mother's Day Special! Order a <a href="/cakes.html">cake</a> online by Friday, May 8, and get a FREE Sugar Cookie to express your love for Mommy!</p>
+	<p>Mother's Day Special! Order a cake online by Friday, May 8, and get a FREE Sugar Cookie to express your love for Mommy!</p>
 	<p>We will contact you for pickup information and an optional message.</p>
 	<p>All cake orders are custom made, please call us if you don't see what you have in mind, and we will work with you to create your dream cake!</p>
 </div>
