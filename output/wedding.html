@@ -1,7 +1,3 @@
----
-extension: html
-filter: erb
----
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
 	"http://www.w3.org/TR/html4/strict.dtd">
 <html>
@@ -9,7 +5,7 @@ filter: erb
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
 	<meta name="keywords" content="bakery, bakeries, wedding cakes, birthday cakes, pastries, cookies, bread, desserts, coffee, authentic, european, berkeley, richmond, oakland, san francisco, east bay, bay area, san francisco bay area, local, fresh">
 	<meta name="description" content="Hopkins Street Bakery is a local bakery in Berkeley, offering authentic European pastries, desserts, cookies and cakes, all baked in-house, specializing in custom cakes, unique cookies and rare European treats.">
-	<title>Hopkins Street Bakery | <%= @page.title %></title>
+	<title>Hopkins Street Bakery | Wedding Cakes</title>
 	<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/combo?3.0.0pr2/build/cssfonts/fonts-min.css&3.0.0pr2/build/cssreset/reset-min.css&3.0.0pr2/build/cssgrids/grids-min.css&3.0.0pr2/build/cssbase/base-min.css">
 	<link rel="stylesheet" type="text/css" href="/css/style.css">
 	<link rel="icon" type="image/vnd.microsoft.icon" href="/favicon.ico">
@@ -25,7 +21,17 @@ filter: erb
 			<div class="yui-main">
 				<div class="yui-b">
 					<div id="content">
-						<%= @content %>
+						<h1>Wedding Cakes</h1>
+<p>Hopkins Street Bakery has been making custom wedding cakes for over 20 years and has designed thousands of beautiful and delicious wedding cakes. We take pride in making your dream cake with the finest and freshest ingredients. We use <a href="http://www.guittard.com/">Guittard </a>chocolate, rBST-free dairy from <a href="http://cloverstornetta.com/">Clover Stornetta Farm</a>, real vanilla and 100% butter. Our fruits are sourced locally from our neighbor <a href="http://www.montereymarket.com/">Monterey Market </a> where you are guaranteed to get the freshest fruits available. When you you order your wedding cake from Hopkins Street Bakery, you will receive one-on-one consultation from our cake chef and owner to design your dream cake for your special day. Pick from one of our popular signature cakes or custom design your own cake flavor, filling and frosting.</p>
+<p>For a detailed list of custom cake and cake flavors, pricing, cake design, please download our <a href="/pdf/HopkinsWedding2009.pdf">wedding brochure</a>.</p>
+<p><a href="http://www.flickr.com/photos/secobarbital/3445239099/" title="wedding cake by Secobarbital, on Flickr"><img src="http://farm4.static.flickr.com/3401/3445239099_98555b1384_m.jpg" width="240" height="166" alt="wedding cake" /></a><br />
+<a href="http://www.flickr.com/photos/secobarbital/3109737538/" title="Wedding Cake by Secobarbital, on Flickr"><img src="http://farm4.static.flickr.com/3065/3109737538_0eb8c1a5fa_m.jpg" width="240" height="225" alt="Wedding Cake" /></a><br />
+<a href="http://www.flickr.com/photos/secobarbital/3446337486/" title="wedding cake by Secobarbital, on Flickr"><img src="http://farm4.static.flickr.com/3616/3446337486_a85fbfd0bb_m.jpg" width="240" height="161" alt="wedding cake" /></a><br />
+<a href="http://www.flickr.com/photos/secobarbital/3446337946/" title="wedding cake by Secobarbital, on Flickr"><img src="http://farm4.static.flickr.com/3544/3446337946_1a6290f4f4_m.jpg" width="240" height="238" alt="wedding cake" /></a></p>
+<p>You can also order customized cookie favor for your wedding from our buttery, yummy sugar cookies!!</p>
+<p><a href="http://www.flickr.com/photos/secobarbital/3446338122/" title="customized cookie favor by Secobarbital, on Flickr"><img src="http://farm4.static.flickr.com/3650/3446338122_132fbd3b46_m.jpg" width="240" height="180" alt="customized cookie favor" /></a></p>
+<p>For a detailed list of custom cake and cake flavors, pricing, cake design, please download our <a href="/pdf/HopkinsWedding2009.pdf">wedding brochure</a>.</p>
+<p>*Make an appointment for your cake tasting today!!</p>
 					</div>
 				</div>
 			</div>
@@ -63,12 +69,8 @@ filter: erb
 			<p>&copy; 2008 Hopkins Street Bakery</p>
 		</div>
 	</div>
-	<% if @page.shop -%>
-	<script id="googlecart-script" type="text/javascript" src="https://checkout.google.com/seller/gsc/v2/cart.js?mid=247323490140293" integration="jscart-wizard" aid="UA-4408061-1" currency="USD"></script>
-	<% else -%>
-	<script type="text/javascript" src="http://www.google-analytics.com/ga.js"></script>
-	<% end -%>
-	<script type="text/javascript">var addthis_pub="hopkinsbakery";</script>
+		<script type="text/javascript" src="http://www.google-analytics.com/ga.js"></script>
+		<script type="text/javascript">var addthis_pub="hopkinsbakery";</script>
 	<script type="text/javascript" src="http://s7.addthis.com/js/200/addthis_widget.js"></script>
 	<script type="text/javascript" src="http://cdn.uservoice.com/javascripts/widgets/tab.js"></script>
 	<script type="text/javascript" src="/js/thirdparty.js"></script>

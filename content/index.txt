@@ -12,19 +12,17 @@ filter:
 
 <p>We specialize in creating memorable cakes and desserts for Weddings, Holidays, and Event celebrations.</p>
 
-<div class="notice">You can now order our fabulous <a href="/cakes.html">cakes</a> right here! Just pick the flavor and size you want, and we will call or email you for an optional message on the cake and arrange for pickup.</div>
+<p class="notice">
+	Mother's Day Special! Order a <a href="/cakes.html">cake</a> online by Friday, May 8, and get a FREE Sugar Cookie to express your love for Mommy!
+</p>
 
-<div id="flickr-slideshow">
-	<object width="400" height="300">
-		<param name="flashvars" value="&amp;offsite=true&amp;lang=en-us&amp;page_show_url=%2Fgroups%2F922700%40N25%2Fpool%2Fshow%2F&amp;page_show_back_url=%2Fgroups%2F922700%40N25%2Fpool%2F&amp;group_id=922700@N25&amp;jump_to=&amp;start_index="></param>
-		<param name="movie" value="http://www.flickr.com/apps/slideshow/show.swf?v=63961"></param>
-		<param name="allowFullScreen" value="true"></param>
-		<script type="text/javascript">
-		if (navigator.mimeTypes && navigator.mimeTypes["application/x-shockwave-flash"]){
-		   document.write('<embed type="application/x-shockwave-flash" src="http://www.flickr.com/apps/slideshow/show.swf?v=63961" allowFullScreen="true" flashvars="&offsite=true&lang=en-us&page_show_url=%2Fgroups%2F922700%40N25%2Fpool%2Fshow%2F&page_show_back_url=%2Fgroups%2F922700%40N25%2Fpool%2F&group_id=922700@N25&jump_to=&start_index=" width="400" height="300"></embed>');
-		} else {
-		   document.write('<div id="image-bar"><img class="first" src="/img/pastries.jpg" width="66" height="60" alt="Pastries" /><img src="/img/friandise.jpg" width="66" height="60" alt="Friandise" /><img src="/img/cupcakes.jpg" width="60" height="60" alt="Cupcakes" /><img src="/img/muffin.jpg" width="60" height="60" alt="Muffin" /><img src="/img/wedding-cake.jpg" width="57" height="60" alt="Wedding Cake" /><img src="/img/raspberry-tart.jpg" width="67" height="60" alt="Raspberry Tart" /><img src="/img/bread-slices.jpg" width="59" height="60" alt="Bread Slices" /><img src="/img/sliced-bread.jpg" width="90" height="60" alt="Sliced Bread" /><img src="/img/flan.jpg" width="90" height="60" alt="Flan" /></div>');
-		}
-		</script>
-	</object>
-</div>
+<h1>New Items!</h1>
+
+<a href="http://www.flickr.com/photos/secobarbital/3457870197/" title="Mini Éclair by Secobarbital, on Flickr"><img src="http://farm4.static.flickr.com/3648/3457870197_3c6c5d4572_m.jpg" width="240" height="150" alt="Mini Éclair" /></a>
+<p>Mini Éclair</p>
+
+<a href="http://www.flickr.com/photos/secobarbital/3458999400/" title="Macaroons and Chocolate Chip Meringue by Secobarbital, on Flickr"><img src="http://farm4.static.flickr.com/3523/3458999400_a87a8c882c_m.jpg" width="240" height="160" alt="Macaroons and Chocolate Chip Meringue" /></a>
+<p>Macaroons and Chocolate Chip Meringue</p>
+
+<a href="http://www.flickr.com/photos/secobarbital/3458999298/" title="Ham &amp; Cheese Croissant by Secobarbital, on Flickr"><img src="http://farm4.static.flickr.com/3572/3458999298_c51288093d_m.jpg" width="160" height="240" alt="Ham &amp; Cheese Croissant" /></a>
+<p>Ham &amp; Cheese Croissant</p>

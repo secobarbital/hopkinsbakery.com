@@ -11,8 +11,9 @@
 		<priority>0.8</priority>
 	</url>
 	<url>
-		<loc>http://hopkinsbakery.com/pastries.html</loc>
+		<loc>http://hopkinsbakery.com/wedding.html</loc>
 		<changefreq>daily</changefreq>
+		<priority>0.6</priority>
 	</url>
 	<url>
 		<loc>http://hopkinsbakery.com/breads.html</loc>
@@ -20,6 +21,18 @@
 	</url>
 	<url>
 		<loc>http://hopkinsbakery.com/contact.html</loc>
+		<changefreq>daily</changefreq>
+	</url>
+	<url>
+		<loc>http://hopkinsbakery.com/cookies.html</loc>
+		<changefreq>daily</changefreq>
+	</url>
+	<url>
+		<loc>http://hopkinsbakery.com/desserts.html</loc>
+		<changefreq>daily</changefreq>
+	</url>
+	<url>
+		<loc>http://hopkinsbakery.com/pastries.html</loc>
 		<changefreq>daily</changefreq>
 	</url>
 </urlset>
