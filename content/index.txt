@@ -13,7 +13,7 @@ filter:
 <p>We specialize in creating memorable cakes and desserts for Weddings, Holidays, and Event celebrations.</p>
 
 <p class="notice">
-	Mother's Day Special! Order a <a href="/cakes.html">cake</a> online by Friday, May 8, and get a FREE Sugar Cookie to express your love for Mommy!
+	For a limited time only!!  Web Special! Order one of our fabulous <a href="/cakes.html">cakes</a> online, and get a FREE Cookie!
 </p>
 
 <h1>New Items!</h1>
