@@ -1,5 +1,5 @@
 ---
-title:       Celebrating 20 years of baking excellence in Berkeley
+title:       A local bakery in North Berkeley
 created_at:  2008-08-02 14:06:40.000000 -06:00
 filter:
   - erb
@@ -16,7 +16,7 @@ filter:
 	For a limited time only!!  Web Special! Order one of our fabulous <a href="/cakes.html">cakes</a> online, and get a FREE Cookie!
 </p>
 
-<h1>New Items!</h1>
+<h2>New Items!</h2>
 
 <a href="http://www.flickr.com/photos/secobarbital/3535987205/" title="Raspberry Jam Donuts by Secobarbital, on Flickr"><img src="http://farm3.static.flickr.com/2336/3535987205_31a3139fe5_m.jpg" width="240" height="160" alt="Raspberry Jam Donuts" /></a>
 <p>Raspberry Jam Donuts</p>

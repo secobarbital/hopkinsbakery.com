@@ -7,8 +7,8 @@ filter: erb
 <html>
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
-	<meta name="keywords" content="bakery, bakeries, wedding cakes, birthday cakes, pastries, cookies, bread, desserts, coffee, authentic, european, berkeley, richmond, oakland, san francisco, east bay, bay area, san francisco bay area, local, fresh">
-	<meta name="description" content="Hopkins Street Bakery is a local bakery in Berkeley, offering authentic European pastries, desserts, cookies and cakes, all baked in-house, specializing in custom cakes, unique cookies and rare European treats.">
+	<meta name="keywords" content="bakery, cakes, pastries, cookies, bread, desserts, wedding, birthday, coffee, berkeley">
+	<meta name="description" content="Hopkins Street Bakery is a local bakery in Berkeley, specializing in custom cakes, unique cookies and rare European treats.">
 	<title>Hopkins Street Bakery | <%= @page.title %></title>
 	<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/combo?3.0.0pr2/build/cssfonts/fonts-min.css&3.0.0pr2/build/cssreset/reset-min.css&3.0.0pr2/build/cssgrids/grids-min.css&3.0.0pr2/build/cssbase/base-min.css">
 	<link rel="stylesheet" type="text/css" href="/css/style.css">
