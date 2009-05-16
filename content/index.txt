@@ -18,6 +18,9 @@ filter:
 
 <h1>New Items!</h1>
 
+<a href="http://www.flickr.com/photos/secobarbital/3535987205/" title="Raspberry Jam Donuts by Secobarbital, on Flickr"><img src="http://farm3.static.flickr.com/2336/3535987205_31a3139fe5_m.jpg" width="240" height="160" alt="Raspberry Jam Donuts" /></a>
+<p>Raspberry Jam Donuts</p>
+
 <a href="http://www.flickr.com/photos/secobarbital/3457870197/" title="Mini Éclair by Secobarbital, on Flickr"><img src="http://farm4.static.flickr.com/3648/3457870197_3c6c5d4572_m.jpg" width="240" height="150" alt="Mini Éclair" /></a>
 <p>Mini Éclair</p>
 
