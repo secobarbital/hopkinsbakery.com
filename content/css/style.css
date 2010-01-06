@@ -59,7 +59,7 @@ h1 {
 	display: block;
 	font-style: italic;
 }
-#container dd.image, #container dd.googlecart {
+#container dd.image {
 	display: block;
 	text-indent: 0;
 }
@@ -89,10 +89,6 @@ h1 {
 	text-align: center;
 	padding-top: 0.5em;
 	padding-bottom: 0.5em;
-}
-
-input.googlecart-widget-quantity-box {
-	width: 2em;
 }
 
 #flickr-badge {

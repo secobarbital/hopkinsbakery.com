@@ -1,8 +1,3 @@
-try {
-  var pageTracker = _gat._getTracker("UA-4408061-1");
-  pageTracker._trackPageview();
-} catch(err) {}
-
 UserVoice.Tab.show({ 
   key: 'hopkinsbakery',
   host: 'hopkinsbakery.uservoice.com', 
